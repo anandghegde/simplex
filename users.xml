@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<users>
+<user><password>ass</password><email>basas@cisco.com</email><admin>yes</admin><username>assbasa</username></user>
+<user><password>abc</password><email>abc@abc.com</email><admin>no</admin><username>whatever</username></user>
+<user><email>anandghegde@gmail.com</email><username>anand</username><admin>no</admin><password>anand</password></user><user><email>test</email><username>test</username><admin>yes</admin><password>test</password></user><user><email>test</email><username>test2</username><admin>no</admin><password>abcd</password></user></users>
